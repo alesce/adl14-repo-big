@@ -10,17 +10,13 @@ language
         ["fi"] = <
             language = <[ISO_639-1::fi]>
             author = <
-                ["name"] = <"??">
-            >
-            other_details = <
+                ["name"] = <"?">
             >
         >
         ["sv"] = <
             language = <[ISO_639-1::sv]>
             author = <
                 ["name"] = <"?">
-            >
-            other_details = <
             >
         >
     >
